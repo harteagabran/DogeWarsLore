@@ -15,8 +15,12 @@ Jaddy is the protaganist of the game. He goes on an adventure to find his owner,
 - Brown Fur
 - A bit naive
 - Born as part of a psionic dog group (Yet to be named.)
-- Runt of the psionic dog group
+- Runt of the psionic dog group, getting stripes of purple fur as his powers grow.
 - Part Chihuahua
+
+## Personality
+
+Jaddy seems to have a blend of his human's personality and generic dog traits. He has a terrible sense of time often feeling like days have passed when in reality only a few hours have gone by (He eventaully gets a small sun dial to help track passage of time). Jaddy is very naive, instantly trusting most people he meets if they do not look scary or pose a threat, he can be tricked very easily but eventually learns to differentiate who has bad intent. In general Jaddy seeks to make those around him happy even if his own goals might interfere in the goals of people he likes. He will try to fight no matter how scared he is because he wants more than anything to be reunited with his friends.
 
 ## Pre Game
 
