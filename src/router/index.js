@@ -6,6 +6,10 @@ const router = createRouter({
 
   routes: [
     {
+      path: "/",
+      component: Home,
+    },
+    {
       path: "/characters/:slug",
       component: ArticlePage,
     },
